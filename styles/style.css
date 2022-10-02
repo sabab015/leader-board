@@ -8,3 +8,9 @@ body{
 .top-player img{
     width: 56px;
 }
+main{
+    max-width: 870px;
+}
+.top-player{
+    background-color: white;
+}
