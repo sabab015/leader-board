@@ -1,3 +1,10 @@
+body{
+    background-color: #E5E5E5;
+}
+
 .navbar img{
     width: 40px;
+}
+.top-player img{
+    width: 56px;
 }
