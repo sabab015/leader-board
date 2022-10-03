@@ -1,16 +1,21 @@
-body{
+body {
     background-color: #E5E5E5;
 }
 
-.navbar img{
+.navbar img {
     width: 40px;
 }
-.top-player img{
+
+.player img {
     width: 56px;
 }
-main{
+
+main {
     max-width: 870px;
 }
-.top-player{
-    background-color: white;
+h5{
+    color: #562EFF;
+}
+.blog img{
+    width: 177px;
 }
