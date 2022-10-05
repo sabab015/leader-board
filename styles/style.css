@@ -13,7 +13,7 @@ body {
 main {
     max-width: 870px;
 }
-h5{
+.player h5{
     color: #562EFF;
 }
 .blog img{
