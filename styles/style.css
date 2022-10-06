@@ -1,13 +1,18 @@
 body {
     background-color: #E5E5E5;
 }
-
+.container-fluid{
+    margin-top: 30px;
+}
 .navbar img {
     width: 40px;
 }
 
 .player img {
     width: 56px;
+}
+p{
+    font-family: 'Poppins', sans-serif;
 }
 
 main {
@@ -18,4 +23,13 @@ main {
 }
 .blog img{
     width: 177px;
+}
+.blog-part{
+    margin-top: 25px;
+}
+.course img{
+    width: 224px;
+}
+.icon img{
+    width: 20px;
 }
