@@ -11,8 +11,20 @@ body {
 }
 
 .top-player p,
-h5 {
+h3 {
     font-weight: 700;
+}
+
+.top-player h3 {
+    margin-top: 5px;
+    margin-left: 15px;
+    margin-bottom: 25px;
+ }
+
+.top-blog h3 {
+   margin-top: 25px;
+   margin-left: 15px;
+   margin-bottom: 15px;
 }
 
 .blog-text {
