@@ -10,7 +10,8 @@ body {
     width: 40px;
 }
 
-.top-player p,h5{
+.top-player p,
+h5 {
     font-weight: 700;
 }
 
@@ -32,10 +33,6 @@ main {
 
 .blog img {
     width: 177px;
-}
-
-.blog-part {
-    margin-top: 25px;
 }
 
 .course img {
