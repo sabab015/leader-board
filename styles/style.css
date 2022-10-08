@@ -1,41 +1,60 @@
 body {
     background-color: #E5E5E5;
 }
-.container-fluid{
+
+.container-fluid {
     margin-top: 30px;
 }
+
 .navbar img {
     width: 40px;
+}
+
+.top-player p,h5{
+    font-weight: 700;
+}
+
+.blog-text {
+    color: #562EFF;
 }
 
 .player img {
     width: 56px;
 }
-p{
+
+p {
     font-family: 'Poppins', sans-serif;
 }
 
 main {
     max-width: 870px;
 }
-.player h5{
-    color: #562EFF;
-}
-.blog img{
+
+.blog img {
     width: 177px;
 }
-.blog-part{
+
+.blog-part {
     margin-top: 25px;
 }
-.course img{
+
+.course img {
     width: 224px;
 }
-.icon img{
+
+.icon img {
     width: 20px;
 }
-.star img{
+
+.star img {
     width: 12px;
 }
-.clock img{
+
+.clock img {
     width: 20px;
+}
+
+.course {
+    border: 1px solid gray;
+
 }
