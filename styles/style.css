@@ -28,9 +28,7 @@ h3 {
 }
 
 .latest-course {
-    width: 870px;
-    margin-top: 25px;
-    height: 420px;
+    max-width: 870px;
 }
 
 .latest-course h3 {
@@ -64,8 +62,14 @@ main {
     font-size: 15px;
 }
 
+.star {
+    width: 94px;
+    height: 29.3px;
+}
+
 .star img {
     width: 17px;
+    height: 12px;
 }
 
 .time img {
@@ -73,7 +77,7 @@ main {
 }
 
 .card {
-    box-shadow: 10px gray;
+    box-shadow: 10px 10px 10px lightgray;
     height: 270px;
     width: 253px;
 }
